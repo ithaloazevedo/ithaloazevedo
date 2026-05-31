@@ -1,5 +1,3 @@
-# Ithalo Azevedo
-
 Senior Product Manager focused on Product Strategy, Growth and AI.
 
 I work with digital products, product discovery, governance, experimentation, user experience and scalable product operations.
